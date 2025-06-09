@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"toml/unstable"
+	"github.com/ClarkQAQ/toml/unstable"
 )
 
 func parseInteger(b []byte) (int64, error) {

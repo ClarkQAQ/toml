@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"toml/internal/danger"
-	"toml/unstable"
+	"github.com/ClarkQAQ/toml/internal/danger"
+	"github.com/ClarkQAQ/toml/unstable"
 )
 
 // DecodeError represents an error encountered during the parsing or decoding

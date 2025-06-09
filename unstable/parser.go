@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"unicode"
 
-	"toml/internal/characters"
-	"toml/internal/danger"
+	"github.com/ClarkQAQ/toml/internal/characters"
+	"github.com/ClarkQAQ/toml/internal/danger"
 )
 
 // ParserError describes an error relative to the content of the document.

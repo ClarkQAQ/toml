@@ -11,9 +11,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"toml/internal/danger"
-	"toml/internal/tracker"
-	"toml/unstable"
+	"github.com/ClarkQAQ/toml/internal/danger"
+	"github.com/ClarkQAQ/toml/internal/tracker"
+	"github.com/ClarkQAQ/toml/unstable"
 )
 
 // Unmarshal deserializes a TOML document into a Go value.

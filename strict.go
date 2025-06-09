@@ -1,9 +1,9 @@
 package utoml
 
 import (
-	"toml/internal/danger"
-	"toml/internal/tracker"
-	"toml/unstable"
+	"github.com/ClarkQAQ/toml/internal/danger"
+	"github.com/ClarkQAQ/toml/internal/tracker"
+	"github.com/ClarkQAQ/toml/unstable"
 )
 
 type strict struct {

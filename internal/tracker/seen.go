@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"toml/unstable"
+	"github.com/ClarkQAQ/toml/unstable"
 )
 
 type keyKind uint8

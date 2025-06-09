@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"toml/unstable"
+	"github.com/ClarkQAQ/toml/unstable"
 )
 
 // LocalDate represents a calendar day in no specific timezone.

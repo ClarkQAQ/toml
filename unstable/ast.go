@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"unsafe"
 
-	"toml/internal/danger"
+	"github.com/ClarkQAQ/toml/internal/danger"
 )
 
 // Iterator over a sequence of nodes.

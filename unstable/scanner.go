@@ -1,6 +1,6 @@
 package unstable
 
-import "toml/internal/characters"
+import "github.com/ClarkQAQ/toml/internal/characters"
 
 func scanFollows(b []byte, pattern string) bool {
 	n := len(pattern)

@@ -1,6 +1,6 @@
 package tracker
 
-import "toml/unstable"
+import "github.com/ClarkQAQ/toml/unstable"
 
 // KeyTracker is a tracker that keeps track of the current Key as the AST is
 // walked.
