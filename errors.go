@@ -1,4 +1,4 @@
-package utoml
+package toml
 
 import (
 	"fmt"

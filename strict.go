@@ -1,4 +1,4 @@
-package utoml
+package toml
 
 import (
 	"github.com/ClarkQAQ/toml/internal/danger"
